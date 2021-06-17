@@ -10,7 +10,7 @@ Terraform Provider for Okta's Advanced Server Access (Okta's ASA)
 Requirements
 ------------
 
--	[Terraform](https://www.terraform.io/downloads.html) 1.0.0
+-	[Terraform](https://www.terraform.io/downloads.html) 1.0.x
 -	[Go](https://golang.org/doc/install) 1.16+ (to build the provider plugin)
 
 Building The Provider
